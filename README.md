@@ -1,3 +1,6 @@
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 # Sales forecast and stock optimization
 
 This project contains research, analysis and implementation of heuristics for sales forecast and stock optimization. We explore different methods and compare metrics of performance between them, aiming to build a recommendation system for retail business owners and strategists.
